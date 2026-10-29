@@ -1,0 +1,6 @@
+streamlit>=1.38.0
+paho-mqtt>=1.6.1,<2.0.0
+SpeechRecognition>=3.10.0
+numpy
+Pillow
+matplotlib
